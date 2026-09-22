@@ -1,0 +1,7 @@
+{
+	"name": "cf-test-alpha",
+	"private": true,
+	"scripts": {
+		"build": "sh build.sh"
+	}
+}
